@@ -1,2 +1,2 @@
 # Pomodoro
-Super simple Pomodoro for windows CMD.
+Super simple Pomodoro written in C for windows CMD.
